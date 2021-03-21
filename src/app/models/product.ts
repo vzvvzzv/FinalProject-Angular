@@ -1,5 +1,3 @@
-import { NumberValueAccessor } from "@angular/forms";
-
 export interface Product {
     productId:number;
     categoryId:number;
